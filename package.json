@@ -1,0 +1,26 @@
+{
+   "name": "manytomanybug",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "ts-node src/index.ts"
+   },
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "@types/node": "^12.0.4",
+      "@types/uuid": "^3.4.4",
+      "mysql": "^2.17.1",
+      "reflect-metadata": "^0.1.10",
+      "typeorm": "0.2.17",
+      "typescript": "^3.5.1",
+      "uuid": "^3.3.2"
+   },
+   "devDependencies": {
+      "@types/node": "^8.0.29",
+      "ts-node": "^3.3.0",
+      "typescript": "3.3.3333"
+   }
+}
